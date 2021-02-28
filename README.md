@@ -2,5 +2,9 @@
 LRAP consits of three modules
 
 i)DROWSINESS DETECTION
+
+
 ii)PEDESTRIAN DETECTION
+
+
 iii)OBJECT DETECTION
